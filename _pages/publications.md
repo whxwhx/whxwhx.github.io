@@ -6,7 +6,7 @@ author_profile: true
 sitemap: false
 ---
 
-[Truly Low-Space Element Dis- tinctness and Subset Sum via Pseudorandom Hash Functions](https://arxiv.org/abs/2111.01759)\\
+[Truly Low-Space Element Distinctness and Subset Sum via Pseudorandom Hash Functions](https://arxiv.org/abs/2111.01759)\\
 Lijie Chen, Ce Jin, R. Ryan Williams, Hongxun Wu\\
 SODA 2022
 
