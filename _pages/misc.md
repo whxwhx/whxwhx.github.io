@@ -12,4 +12,4 @@ I enjoy (watching) standup comedies. Checkout [Comedy Club China](https://www.fa
 
 I visted [BARC](https://barc.ku.dk/) (Basic Algorithm Research Copenhagen) for two months. It was such a lovely place full of friendly people. See [here](../img/barc1.jpg) and [here](../img/barc2.jpg) for pictures. 
 
-I used to do competitive programming. My Codeforces handle was [WuHongxun](https://codeforces.com/profile/WuHongxun). I was also an administrator of [UOJ](https://uoj.ac/) (Univsersal Online Judge). My username on UOJ is also [WuHongxun](https://uoj.ac/user/profile/WuHongxun). 
+I used to do competitive programming. My [Codeforces](https://codeforces.com/) handle was [WuHongxun](https://codeforces.com/profile/WuHongxun). I was also an administrator of [UOJ](https://uoj.ac/) (Univsersal Online Judge). I am also [WuHongxun](https://uoj.ac/user/profile/WuHongxun) on UOJ. 
