@@ -37,3 +37,7 @@ SODA 2019
 [A Simple Near-Linear Pseudopolynomial Time Randomized Algorithm for Subset Sum](https://arxiv.org/abs/1807.11597)\\
 Ce Jin and Hongxun Wu\\
 SOSA 2019
+
+[Single-Source Bottleneck Path Algorithm Faster than Sorting for Sparse Graphs](https://arxiv.org/abs/1808.10658)\\
+Ran Duan, Kaifeng Lyu, Hongxun Wu, Yuanhang Xie\\
+Preprint
