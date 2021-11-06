@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior-year undergraduate student at Institute for Interdisciplinary Information Sciences, Tsinghua University (a.k.a. Yao class). I have broad interest in theoretical computer science, especially in algorithm design, complexity, and pseudorandomness. 
+I am a senior-year undergraduate student at Institute for Interdisciplinary Information Sciences, Tsinghua University (a.k.a. Yao class). I have broad interest in theoretical computer science, especially in Algorithm Design, Complexity, and Pseudorandomness. 
 
 During internships, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them.
 
