@@ -14,9 +14,9 @@ Here is a selected list of courses that I have taken.
 
 + *Theory of Computation*  A
 
-+ *Quantum Computer Science*  A+
-
 + *Fundamentals of Cryptography* A
+
++ *Quantum Computer Science*  A+
 
 + *Introduction to Optimization Theory*  A
 
@@ -27,7 +27,5 @@ Here is a selected list of courses that I have taken.
 + *Game Theory* A-
 
 + *Quantitative Economics* A+
-
-+ *Game, Decision Making and Queuing Theory*  A
 
 + *Stochastic Network Optimization Theory (Graduate)* A
