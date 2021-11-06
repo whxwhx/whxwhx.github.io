@@ -3,6 +3,7 @@ layout: archive
 title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
+sitemap: false
 ---
 
 I became a fan of billiards in my junior year. [Here](../img/billiards.jpeg) is a picture of me playing billiards. 

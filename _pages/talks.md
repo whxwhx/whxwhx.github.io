@@ -3,6 +3,7 @@ layout: archive
 title: "Talks"
 permalink: /talks/
 author_profile: true
+sitemap: false
 ---
 
 [Random Order Vertex Arrival Contention Resolution Schemes for Matching](https://drops.dagstuhl.de/opus/volltexte/2021/14137/)\\
