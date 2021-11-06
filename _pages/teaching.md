@@ -7,6 +7,6 @@ author_profile: true
 
 I enjoy teaching and inspiring others. 
 
-I am the host of [Yao Class Seminars](http://group.iiis.tsinghua.edu.cn/~seminar/]) in Fall 2021. This is a series of seminars aiming at providing Yao Class undergraduates exposure to different research area. 
+I am the host of [Yao Class Seminars](http://group.iiis.tsinghua.edu.cn/~seminar/]) in Fall 2021. This is a series of seminars for introducing frontier of research to Yao Class undergraduates.
 
 I am a teaching assistant for [Algorithm Design](https://people.iiis.tsinghua.edu.cn/~jianli/courses/algo2021fall/course-algo2021.htm) course (Instructor: [Jian Li](https://people.iiis.tsinghua.edu.cn/~jianli/))  of Yao Class. Together with other TAs, we hold regular TA sessions for students in need, and special TA session for students interested in TCS research.  
