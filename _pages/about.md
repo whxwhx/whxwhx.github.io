@@ -18,5 +18,3 @@ During internships, I was extremely fortunate to be advised by kind and inspirin
 + Prof. [Hu Fu](https://www.fuhuthu.com/)
 + Prof. [Mikkel Thorup](http://hjemmesider.diku.dk/~mthorup/)
 + Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/en/duanr/) 
-
-(sorted in time order)
