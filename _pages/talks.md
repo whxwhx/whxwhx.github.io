@@ -6,6 +6,9 @@ author_profile: true
 sitemap: false
 ---
 
+[Element Distinctness, Birthday Paradox, and 1-out Pseudorandom Graphs](https://arxiv.org/abs/2111.01759) \\
+Yao Class Seminar, October 2020 ([slides](../slides/ED.pdf))
+
 [Random Order Vertex Arrival Contention Resolution Schemes for Matching](https://drops.dagstuhl.de/opus/volltexte/2021/14137/)\\
 ICALP, July 2021 ([video](https://www.youtube.com/watch?v=DERhEaPDdOA), [slides](../slides/RCRS.pdf))
 
