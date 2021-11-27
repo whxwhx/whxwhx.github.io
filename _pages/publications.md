@@ -10,7 +10,7 @@ sitemap: false
 Lijie Chen, Ce Jin, R. Ryan Williams, Hongxun Wu\\
 SODA 2022
 
-[Oblivious Online Contention Resolution Schemes](../slides/ObliviousOCRS.pdf)\\
+[Oblivious Online Contention Resolution Schemes](https://arxiv.org/abs/2111.10607)\\
 Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Abner Turkieltaub, Hongxun Wu, Jinzhao Wu, Qianfan Zhang\\
 SOSA 2022
 
