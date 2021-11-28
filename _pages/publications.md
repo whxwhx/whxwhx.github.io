@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 sitemap: false
 ---
+(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics \\
+Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu\\
+Submitted to STOC 2022
 
 [Truly Low-Space Element Distinctness and Subset Sum via Pseudorandom Hash Functions](https://arxiv.org/abs/2111.01759)\\
 Lijie Chen, Ce Jin, R. Ryan Williams, Hongxun Wu\\
