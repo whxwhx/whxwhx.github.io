@@ -14,7 +14,7 @@ I am a senior-year undergraduate student at Institute for Interdisciplinary Info
 During internships, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them. 
 
 + Prof. [Ryan Williams](https://people.csail.mit.edu/rrw/)
-+ Prof. [Zhihao Gavin Tang](http://itcs.shufe.edu.cn/~zhtang/)
++ Prof. [Zhihao Gavin Tang](https://itcs.sufe.edu.cn/54/23/c10495a152611/page.htm)
 + Prof. [Hu Fu](https://www.fuhuthu.com/)
 + Prof. [Mikkel Thorup](http://hjemmesider.diku.dk/~mthorup/)
 + Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/en/duanr/) 
