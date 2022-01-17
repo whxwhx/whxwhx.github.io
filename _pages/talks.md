@@ -6,6 +6,9 @@ author_profile: true
 sitemap: false
 ---
 
+[Truly Low-Space Element Distinctness and Subset Sum via Pseudorandom Hash Functions](https://arxiv.org/abs/2111.01759) \\
+SODA, January 2022 ([slides](../slides/ED_SODA.pdf))
+
 [Element Distinctness, Birthday Paradox, and 1-out Pseudorandom Graphs](https://arxiv.org/abs/2111.01759) \\
 Yao Class Seminar, November 2021 ([slides](../slides/ED.pdf))
 
