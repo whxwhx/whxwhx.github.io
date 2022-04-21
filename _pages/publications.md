@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 sitemap: false
 ---
-**(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics** \\
+[(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics](https://arxiv.org/abs/2204.06851) \\
 Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu\\
 STOC 2022
 
