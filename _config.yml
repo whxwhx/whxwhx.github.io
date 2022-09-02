@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongxun Wu"
 title_separator          : "-"
 name                     : &name "Hongxun Wu"
-description              : &description "Undergraduate at Tsinghua University"
+description              : &description "first-year PhD student at UC Berkeley"
 url                      : https://whxwhx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "whxwhx/whxwhx.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hongxun Wu"
   avatar           : "photo.jpeg"
-  bio              : "Undergraduate, Yao Class, Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "First-year PhD student, UC Berkeley"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "wuhx18@mails.tsinghua.edu.cn"
+  email            : "wuhx@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
