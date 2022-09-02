@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior-year undergraduate student at Institute for Interdisciplinary Information Sciences, Tsinghua University (a.k.a. Yao class). I have a broad interest in theoretical computer science, especially in Algorithm Design, Complexity, and Pseudorandomness. 
+I am a first-year PhD student at UC Berkeley. I have a broad interest in theoretical computer science. Previously, I was an undergraduate student in Yao Class, Tsinghua University.
 
-During internships, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them. 
+During my undergrad, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them. 
 
 + Prof. [Ryan Williams](https://people.csail.mit.edu/rrw/)
 + Prof. [Zhihao Gavin Tang](https://itcs.sufe.edu.cn/54/23/c10495a152611/page.htm)
