@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at UC Berkeley. I have a broad interest in theoretical computer science. Previously, I was an undergraduate student in Yao Class, Tsinghua University.
+I am a first-year PhD student at UC Berkeley. I am fortunate to be adviced by [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) and [Avishay Tal](https://www.avishaytal.org/). I have a broad interest in theoretical computer science. Previously, I was an undergraduate student in Yao Class, Tsinghua University.
 
-During my undergrad, I was extremely fortunate to be advised by kind and inspiring professors. I am always so grateful to them. 
+During my undergrad, I worked with kind and inspiring professors. I am always so grateful to them. 
 
 + Prof. [Ryan Williams](https://people.csail.mit.edu/rrw/)
 + Prof. [Zhihao Gavin Tang](https://itcs.sufe.edu.cn/54/23/c10495a152611/page.htm)
