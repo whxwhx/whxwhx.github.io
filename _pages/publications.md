@@ -7,11 +7,11 @@ sitemap: false
 ---
 
 Tight Time-Space Lower Bounds for Constant-Pass Learning\\
-[Xin Lyu](https://whxwhx.github.io/xin.png), Avishay Tal, Hongxun Wu, Junzhao Yang\\
+[Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu, Junzhao Yang\\
 FOCS 2023
 
 Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting\\
-Lijie Chen, William Hoza, [Xin Lyu](https://whxwhx.github.io/xin.png), Avishay Tal, Hongxun Wu\\
+Lijie Chen, William Hoza, [Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu\\
 FOCS 2023
 
 [Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)\\
@@ -19,7 +19,7 @@ Ran Duan, Hongxun Wu, Renfei Zhou\\
 FOCS 2023
 
 New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs\\
-Lijie Chen, [Xin Lyu](https://whxwhx.github.io/xin.png), Avishay Tal, Hongxun Wu\\
+Lijie Chen, [Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu\\
 ICALP 2023
 
 [(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics](https://arxiv.org/abs/2204.06851)\\
