@@ -7,11 +7,11 @@ sitemap: false
 ---
 
 Tight Time-Space Lower Bounds for Constant-Pass Learning\\
-Xin Lyu, Avishay Tal, Hongxun Wu, Junzhao Yang\\
+[Xin Lyu](https://whxwhx.github.io/publications/xin.png), Avishay Tal, Hongxun Wu, Junzhao Yang\\
 FOCS 2023
 
 Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting\\
-Lijie Chen, William Hoza, Xin Lyu, Avishay Tal, Hongxun Wu\\
+Lijie Chen, William Hoza, [Xin Lyu](https://whxwhx.github.io/publications/xin.png), Avishay Tal, Hongxun Wu\\
 FOCS 2023
 
 [Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)\\
