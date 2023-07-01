@@ -6,11 +6,11 @@ author_profile: true
 sitemap: false
 ---
 
-[Tight Time-Space Lower Bounds for Constant-Pass Learning]\\
+Tight Time-Space Lower Bounds for Constant-Pass Learning\\
 Xin Lyu, Avishay Tal, Hongxun Wu, Junzhao Yang\\
 FOCS 2023
 
-[Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting]\\
+Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting\\
 Lijie Chen, William Hoza, Xin Lyu, Avishay Tal, Hongxun Wu\\
 FOCS 2023
 
@@ -18,7 +18,7 @@ FOCS 2023
 Ran Duan, Hongxun Wu, Renfei Zhou\\
 FOCS 2023
 
-[New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs]\\
+New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs\\
 Lijie Chen, Xin Lyu, Avishay Tal, Hongxun Wu\\
 ICALP 2023
 
