@@ -19,7 +19,7 @@ Ran Duan, Hongxun Wu, Renfei Zhou\\
 FOCS 2023
 
 New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs\\
-Lijie Chen, Xin Lyu, Avishay Tal, Hongxun Wu\\
+Lijie Chen, [Xin Lyu](https://whxwhx.github.io/publications/xin.png), Avishay Tal, Hongxun Wu\\
 ICALP 2023
 
 [(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics](https://arxiv.org/abs/2204.06851)\\
