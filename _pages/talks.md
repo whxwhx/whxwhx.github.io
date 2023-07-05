@@ -6,6 +6,12 @@ author_profile: true
 sitemap: false
 ---
 
+[Fast Matrix Multiplication](https://arxiv.org/abs/2210.10173) \\
+Berkeley Theory Lunch, February 2023 ([slides](../slides/MatrixMult.pdf))
+
+[(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics](https://arxiv.org/abs/2204.06851) \\
+STOC, June 2022 ([slides](../slides/matching.pdf))
+
 [Truly Low-Space Element Distinctness and Subset Sum via Pseudorandom Hash Functions](https://arxiv.org/abs/2111.01759) \\
 SODA, January 2022 ([slides](../slides/ED_SODA.pdf))
 
