@@ -18,7 +18,7 @@ FOCS 2023
 Ran Duan, Hongxun Wu, Renfei Zhou\\
 FOCS 2023
 
-New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs\\
+[New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs](https://drops.dagstuhl.de/opus/volltexte/2023/18091/)\\
 Lijie Chen, [Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu\\
 ICALP 2023
 
