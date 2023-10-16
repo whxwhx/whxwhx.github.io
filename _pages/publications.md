@@ -6,12 +6,20 @@ author_profile: true
 sitemap: false
 ---
 
-Tight Time-Space Lower Bounds for Constant-Pass Learning\\
-[Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu, Junzhao Yang\\
+The Cost of Parallelizing Boosting\\
+Xin Lyu, Hongxun Wu, Junzhao Yang\\
+SODA 2024
+
+[Breaking the Metric Voting Distortion Barrier](https://arxiv.org/abs/2306.17838) \\
+Moses Charikar, Prasanna Ramakrishnan, Kangning Wang, Hongxun Wu\\
+SODA 2024
+
+[Tight Time-Space Lower Bounds for Constant-Pass Learning](https://arxiv.org/abs/2310.08070)\\
+Xin Lyu, Avishay Tal, Hongxun Wu, Junzhao Yang\\
 FOCS 2023
 
-Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting\\
-Lijie Chen, William Hoza, [Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu\\
+[Weighted Pseudorandom Generators via Inverse Analysis of Random Walks and Shortcutting](https://eccc.weizmann.ac.il/report/2023/114/)\\
+Lijie Chen, William Hoza, Xin Lyu, Avishay Tal, Hongxun Wu\\
 FOCS 2023
 
 [Faster Matrix Multiplication via Asymmetric Hashing](https://arxiv.org/abs/2210.10173)\\
@@ -19,7 +27,7 @@ Ran Duan, Hongxun Wu, Renfei Zhou\\
 FOCS 2023
 
 [New PRGs for Unbounded-width/Adaptive-order Read-once Branching Programs](https://drops.dagstuhl.de/opus/volltexte/2023/18091/)\\
-Lijie Chen, [Xin Lyu](https://whxwhx.github.io/images/xin.png), Avishay Tal, Hongxun Wu\\
+Lijie Chen, Xin Lyu, Avishay Tal, Hongxun Wu\\
 ICALP 2023
 
 [(Fractional) Online Stochastic Matching via Fine-Grained Offline Statistics](https://arxiv.org/abs/2204.06851)\\
