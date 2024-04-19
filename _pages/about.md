@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at UC Berkeley. I am fortunate to be adviced by [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) and [Avishay Tal](https://www.avishaytal.org/). I have a broad interest in theoretical computer science. Previously, I was an undergraduate student in Yao Class, Tsinghua University.
+I am a second-year PhD student at UC Berkeley. I am fortunate to be advised by [Jelani Nelson](https://people.eecs.berkeley.edu/~minilek/) and [Avishay Tal](https://www.avishaytal.org/). I have a broad interest in theoretical computer science. Previously, I was an undergraduate student in Yao Class, Tsinghua University.
 
 During my undergrad, I worked with kind and inspiring professors. I am always so grateful to them. 
 

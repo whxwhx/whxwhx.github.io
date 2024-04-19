@@ -6,7 +6,24 @@ author_profile: true
 sitemap: false
 ---
 
-The Cost of Parallelizing Boosting\\
+
+[Optimal quantile estimation: beyond the comparison model](https://arxiv.org/abs/2404.03847)\\
+Meghal Gupta, Mihir Singhal, Hongxun Wu\\
+In submission
+
+[Sample-Based Matroid Prophet Inequalities]\\
+Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang\\
+In submission
+
+[A Faster Algorithm for Pigeonhole Equal Sums](https://arxiv.org/abs/2403.19117)\\
+Ce Jin, Hongxun Wu\\
+ICALP 2024
+
+[Simple & Optimal Quantile Sketch: Combining Greenwald-Khanna with Khanna-Greenwald]\\
+Elena Gribelyuk, Pachara Sawettamalya, Hongxun Wu, Huacheng Yu\\
+PODS 2024
+
+[The Cost of Parallelizing Boosting](https://arxiv.org/abs/2402.15145)\\
 Xin Lyu, Hongxun Wu, Junzhao Yang\\
 SODA 2024
 
