@@ -11,7 +11,7 @@ sitemap: false
 Meghal Gupta, Mihir Singhal, Hongxun Wu\\
 In submission
 
-[Sample-Based Matroid Prophet Inequalities]\\
+Sample-Based Matroid Prophet Inequalities\\
 Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang\\
 In submission
 
@@ -19,7 +19,7 @@ In submission
 Ce Jin, Hongxun Wu\\
 ICALP 2024
 
-[Simple & Optimal Quantile Sketch: Combining Greenwald-Khanna with Khanna-Greenwald]\\
+Simple & Optimal Quantile Sketch: Combining Greenwald-Khanna with Khanna-Greenwald\\
 Elena Gribelyuk, Pachara Sawettamalya, Hongxun Wu, Huacheng Yu\\
 PODS 2024
 
