@@ -13,13 +13,13 @@ In submission
 
 Sample-Based Matroid Prophet Inequalities\\
 Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang\\
-In submission
+EC 2024
 
 [A Faster Algorithm for Pigeonhole Equal Sums](https://arxiv.org/abs/2403.19117)\\
 Ce Jin, Hongxun Wu\\
 ICALP 2024
 
-Simple & Optimal Quantile Sketch: Combining Greenwald-Khanna with Khanna-Greenwald\\
+[Simple & Optimal Quantile Sketch: Combining Greenwald-Khanna with Khanna-Greenwald](https://dl.acm.org/doi/10.1145/3651610)\\
 Elena Gribelyuk, Pachara Sawettamalya, Hongxun Wu, Huacheng Yu\\
 PODS 2024
 
