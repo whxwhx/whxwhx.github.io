@@ -6,12 +6,15 @@ author_profile: true
 sitemap: false
 ---
 
+[Near-Optimal Relative Error Streaming Quantile Estimation via Elastic Compactors]\\
+Elena Gribelyuk, Pachara Sawettamalya, Hongxun Wu, Huacheng Yu\\
+In submission
 
 [Optimal quantile estimation: beyond the comparison model](https://arxiv.org/abs/2404.03847)\\
 Meghal Gupta, Mihir Singhal, Hongxun Wu\\
-In submission
+FOCS 2024
 
-Sample-Based Matroid Prophet Inequalities\\
+[Sample-Based Matroid Prophet Inequalities](https://arxiv.org/abs/2406.12799)\\
 Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang\\
 EC 2024
 
