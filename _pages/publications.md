@@ -6,9 +6,13 @@ author_profile: true
 sitemap: false
 ---
 
-[Near-Optimal Relative Error Streaming Quantile Estimation via Elastic Compactors]\\
+[Theoretical limitations of multi-layer Transformer](https://arxiv.org/abs/2412.02975)\\
+Lijie Chen, Binghui Peng, Hongxun Wu\\
+FOCS 2025
+
+[Near-Optimal Relative Error Streaming Quantile Estimation via Elastic Compactors](https://arxiv.org/abs/2411.01384)\\
 Elena Gribelyuk, Pachara Sawettamalya, Hongxun Wu, Huacheng Yu\\
-In submission
+SODA 2025
 
 [Optimal quantile estimation: beyond the comparison model](https://arxiv.org/abs/2404.03847)\\
 Meghal Gupta, Mihir Singhal, Hongxun Wu\\
