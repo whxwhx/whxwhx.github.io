@@ -18,7 +18,7 @@ I spent first three years of my PhD trying to understand the role of memory in c
 
 It is amazing how these very specific and simple-looking questions can lead to very deep lines of research and many beautiful ideas.
 
-Recently, my interests shifts to the on-gonig LLM revolution. This summar, I'm interning at Microsoft Resarch, mentored by [Janardhan Kulkarni][https://www.microsoft.com/en-us/research/people/jakul/] on LLM reasoning. 
+Recently, my interests shifts to the on-gonig LLM revolution. This summar, I'm interning at Microsoft Resarch, mentored by [Janardhan Kulkarni](https://www.microsoft.com/en-us/research/people/jakul/) on LLM reasoning and self-improving. 
 
 With only noisy human data and compute, LLMs was able to solve competitive-level math and algorithm problems. It is foreseeable that with new training recipes, and more enginnering, data, architecture and algorihtmic innovation, it is going to be able to solve not only all the specific problems above, but also the grand open problems that I have no clue how one might attack:
 
