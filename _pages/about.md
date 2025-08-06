@@ -15,6 +15,7 @@ I spent first three years of my PhD trying to understand the role of memory in c
 + [How many memory access is needed to decide whether n numbers are distinct?](https://arxiv.org/abs/2111.01759)
 + [HHow to approximate median when you can only look at each datapoint once?](https://dl.acm.org/doi/10.1145/3651610)
 + [Can you solve a set of equations when you can only look at each equation once? Twice? $O(1)$ times?](https://arxiv.org/abs/2310.08070)
+
 It is amazing how these very specific and simple-looking questions can lead to very deep lines of research and many beautiful ideas.
 
 Recently, my interests shifts to the on-gonig LLM revolution. This summar, I'm interning at Microsoft Resarch, mentored by [Janardhan Kulkarni][https://www.microsoft.com/en-us/research/people/jakul/] on LLM reasoning. 
