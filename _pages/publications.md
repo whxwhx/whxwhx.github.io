@@ -92,6 +92,5 @@ SOSA 2019
 
 [Single-Source Bottleneck Path Algorithm Faster than Sorting for Sparse Graphs](https://arxiv.org/abs/1808.10658)\\
 Ran Duan, Kaifeng Lyu, Hongxun Wu, Yuanhang Xie\\
-Preprint
-
-<span style="color:red;">[See how the ideas from this paper became the last piece in the new breakthrough for Dijkstra algorithm.](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/) </span>
+Preprint\\
+<span style="color:red;">[See how the ideas from this paper became the last piece in the recent breakthrough of Dijkstra algorithm.](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/) </span>
