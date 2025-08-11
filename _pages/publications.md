@@ -16,7 +16,7 @@ SODA 2025
 
 [Optimal quantile estimation: beyond the comparison model](https://arxiv.org/abs/2404.03847)\\
 Meghal Gupta, Mihir Singhal, Hongxun Wu\\
-FOCS 2024
+<span style="color:red;">FOCS 2024 Best Student Paper</span>
 
 [Sample-Based Matroid Prophet Inequalities](https://arxiv.org/abs/2406.12799)\\
 Hu Fu, Pinyan Lu, Zhihao Gavin Tang, Hongxun Wu, Jinzhao Wu, Qianfan Zhang\\
@@ -24,7 +24,7 @@ EC 2024
 
 [A Faster Algorithm for Pigeonhole Equal Sums](https://arxiv.org/abs/2403.19117)\\
 Ce Jin, Hongxun Wu\\
-ICALP 2024
+<span style="color:red;">ICALP 2024 Best Student Paper</span>
 
 [Simple & Optimal Quantile Sketch: Combining Greenwald-Khanna with Khanna-Greenwald](https://dl.acm.org/doi/10.1145/3651610)\\
 Elena Gribelyuk, Pachara Sawettamalya, Hongxun Wu, Huacheng Yu\\
@@ -36,7 +36,7 @@ SODA 2024
 
 [Breaking the Metric Voting Distortion Barrier](https://arxiv.org/abs/2306.17838) \\
 Moses Charikar, Prasanna Ramakrishnan, Kangning Wang, Hongxun Wu\\
-SODA 2024
+<span style="color:red;">SODA 2024 Best Paper</span>
 
 [Tight Time-Space Lower Bounds for Constant-Pass Learning](https://arxiv.org/abs/2310.08070)\\
 Xin Lyu, Avishay Tal, Hongxun Wu, Junzhao Yang\\
@@ -93,3 +93,4 @@ SOSA 2019
 [Single-Source Bottleneck Path Algorithm Faster than Sorting for Sparse Graphs](https://arxiv.org/abs/1808.10658)\\
 Ran Duan, Kaifeng Lyu, Hongxun Wu, Yuanhang Xie\\
 Preprint
+<span style="color:blue;">[See how the ideas from this paper became the last piece in the new breakthrough for Dijkstra algorithm.](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/) </span>
